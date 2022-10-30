@@ -1,0 +1,10 @@
+Higher Order Functions:
+
+1. map, compactMap, flatMap:
+https://www.youtube.com/watch?v=sdGwOPW0ko4&ab_channel=StewartLynch
+
+2. reduce, filter, removeAll:
+https://www.youtube.com/watch?v=9wAhKodOyFI&ab_channel=StewartLynch
+
+3. contains, forEach, sorted:
+https://www.youtube.com/watch?v=TnbAABxVq5w&t=0s&ab_channel=StewartLynch
